@@ -1,0 +1,15 @@
+.box {
+    box-sizing:border-box;
+    background-color:#ebebeb;
+    border-radius:5px;
+    padding: 50px 60px;
+    width: 500px;
+    height: 500px;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Lato;
+    color: #111;
+}
